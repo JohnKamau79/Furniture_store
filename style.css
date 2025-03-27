@@ -18,7 +18,7 @@
 }
 .social-link i img:hover{
     background-color: rgba(238,224,208);
-    border-radius: 50px;
+    border-radius: 53px;
 }
 /* body {
     font-family: Arial, sans-serif;
@@ -48,7 +48,7 @@
     margin-left: 10px;
     cursor: pointer;
 }
-@media screen and (max-width:420px){
+@media screen and (max-width:425px){
     .icons i img{
         width: 20px;
     }
